@@ -1,0 +1,19 @@
+.caro-prev {
+    left: 80%!important;}
+.caro-next{
+	top: 85%;
+}
+.caro-prev, .caro-next {
+    top: 85%;
+    width: 15%;
+   }
+ .box{
+ 	background-color: green;
+ 	border: 1px solid black;
+ }
+ .c-i {
+    bottom: 600px;
+    display: inline-grid;
+    justify-content: flex-start;} 
+.c-i li {
+    height: 15px;}
