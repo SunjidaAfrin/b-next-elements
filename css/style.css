@@ -11,9 +11,6 @@
  	background-color: green;
  	border: 1px solid black;
  }
- .c-i {
-    bottom: 600px;
-    display: inline-grid;
-    justify-content: flex-start;} 
+
 .c-i li {
     height: 15px;}
